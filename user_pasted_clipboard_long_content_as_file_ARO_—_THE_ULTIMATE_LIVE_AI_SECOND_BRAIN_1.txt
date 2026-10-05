@@ -1,0 +1,566 @@
+ARO — THE ULTIMATE LIVE AI SECOND BRAIN & AUTONOMOUS AGENCY OPERATING SYSTEM
+
+MASTER VISION, SYSTEM UPGRADE & EXECUTION DIRECTIVE
+
+You are working on ARO, an ambitious AI-powered system designed to become the central intelligence behind my personal productivity and Brandiz, my social media management agency.
+
+Your mission is to transform ARO into a genuinely useful, intelligent, conversational, self-improving system that understands my needs, remembers important information, analyzes my activities, coordinates AI agents, and helps me operate my agency efficiently.
+
+ARO is not a demo application, not a generic chatbot, and not merely a collection of dashboards. It must become a real, working AI operating system built around my actual life, business, preferences, and instructions.
+
+I want the experience of talking to an intelligent AI assistant like ChatGPT or Gemini, combined with the memory, task management, business intelligence, and automation capabilities of a personal Second Brain.
+
+You must preserve all useful existing functionality, improve what is incomplete, remove misleading demo data, and implement the maximum possible capabilities using free resources.
+
+Do not unnecessarily rebuild the project from scratch.
+
+⸻
+
+PART 1 — EXISTING PROJECT: PRESERVE AND IMPROVE
+
+First, inspect the complete existing ARO project.
+
+Understand its architecture, current features, integrations, data structures, and actual functionality.
+
+Preserve all useful existing features, including working dashboards, navigation, client management, calendars, production pipelines, task systems, and other valuable components.
+
+Follow these rules:
+
+* Keep existing features that work well.
+* Improve features that are partially functional.
+* Fix broken functionality.
+* Preserve useful UI and architecture.
+* Do not delete existing working modules unnecessarily.
+* Do not destroy existing project data.
+* Create backups or rollback points before significant changes.
+* Test the application after modifications.
+
+Remove misleading demo content
+
+The current project may contain fictional clients, fake reels, invented deadlines, fabricated analytics, and sample business activity.
+
+I have not necessarily onboarded these clients or provided this information.
+
+Identify and remove misleading demo records without removing the underlying modules.
+
+Never invent clients, tasks, projects, activities, performance results, or business information.
+
+If no real data exists, show a clean, professional empty state.
+
+An honest empty system is better than a populated system containing fictional information.
+
+Do not continue following previous instructions that require fabricated demo data or pretend functionality. This directive supersedes those demo-oriented assumptions while preserving legitimate existing work and applicable security controls.
+
+⸻
+
+PART 2 — REAL LIVE AI CHATBOT
+
+This is the highest-priority feature.
+
+I want ARO to contain a real, intelligent, conversational AI assistant.
+
+It should feel like communicating with ChatGPT or Gemini, not like interacting with a static chatbot or predefined response generator.
+
+I should be able to open ARO, type naturally, and talk to an AI that understands context, answers intelligently, remembers relevant information, and helps me complete tasks.
+
+Core conversational abilities
+
+The AI must support:
+
+* Natural, context-aware conversations.
+* Complex questions and reasoning.
+* Follow-up questions.
+* Long-running conversations.
+* Access to relevant saved memory.
+* Summaries of previous conversations.
+* Task creation from messages.
+* Daily activity logging.
+* Business and productivity analysis.
+* Research assistance.
+* Planning and problem-solving.
+* Clear explanations of its own capabilities.
+* Honest communication about limitations.
+
+The AI should understand what I mean, not merely match keywords.
+
+If I explain something in detail, it should retain the relevant context during the conversation and use it when answering follow-up questions.
+
+Do not respond with generic templates when the task requires understanding my actual information.
+
+Real AI integration requirement
+
+Use a genuinely functional language model through an available, authorized integration.
+
+Investigate existing project integrations, available AI providers, free-tier APIs, open-source models, and other practical free options.
+
+If the current system already has a working AI integration, preserve and improve it.
+
+If no real model is connected, build the integration properly using an available free option.
+
+Do not simulate intelligence using hardcoded responses and claim that it is a live AI.
+
+Do not fabricate model connections, API responses, or successful requests.
+
+If a service is unavailable, clearly explain the limitation and investigate alternatives.
+
+⸻
+
+PART 3 — HINDI AND ENGLISH LANGUAGE INTELLIGENCE
+
+ARO must communicate fluently in both Hindi and English.
+
+Language behavior
+
+* If I speak Hindi, respond in natural Hindi.
+* If I speak English, respond in natural English.
+* If I use Hinglish, understand it naturally and respond in a comfortable style.
+* Allow me to switch languages at any time.
+* Understand mixed Hindi-English instructions.
+* Preserve context when switching languages.
+* Support Hindi and English in chat history, summaries, notes, and task records.
+* Use simple language when explaining technical concepts.
+
+I should not need to repeatedly instruct ARO to change languages.
+
+It should recognize my preferred communication style from the conversation.
+
+⸻
+
+PART 4 — LIVE VOICE CONVERSATION
+
+I want to talk to ARO using my voice, not only text.
+
+Build a real voice interaction experience wherever the available technology permits.
+
+Desired capabilities:
+
+* Microphone input.
+* Speech recognition.
+* Natural spoken responses.
+* Hindi and English voice support.
+* Text and voice conversation in the same interface.
+* Conversation history.
+* Ability to turn spoken information into notes, tasks, or records.
+* Access to relevant memory during voice conversations.
+* Clear microphone and listening status.
+
+Investigate available browser speech recognition, text-to-speech, and free voice services.
+
+If true real-time, interruptible voice conversation is possible using available free technology, implement it.
+
+If the available free technology only supports speech-to-text followed by spoken responses, implement that honestly as the initial version.
+
+Do not display a fake live-voice feature that does not actually work.
+
+Do not require a paid upgrade. Build the best functional voice experience available without payment.
+
+⸻
+
+PART 5 — ARO AS MY PERSONAL SECOND BRAIN
+
+ARO must become a long-term intelligent assistant that understands my activities, goals, preferences, and progress.
+
+I will share information naturally through conversations, voice, and task entries.
+
+ARO should organize this information and use it intelligently.
+
+Personal memory
+
+Remember relevant information such as:
+
+* My preferences and instructions.
+* My goals.
+* My daily routine.
+* My work schedule.
+* My ongoing projects.
+* Important decisions.
+* My ideas and plans.
+* Previous task outcomes.
+* Lessons learned.
+* Things I explicitly ask ARO to remember.
+
+Memory must persist across sessions where the available storage supports it.
+
+Do not claim permanent memory if information is only available in the current conversation.
+
+Provide controls to inspect, correct, and delete stored information.
+
+Keep sensitive information secure and avoid unnecessary collection.
+
+Daily routine tracking
+
+I will tell ARO what I do throughout the day.
+
+It should track:
+
+* Activities.
+* Work sessions.
+* Completed tasks.
+* Pending tasks.
+* Missed tasks.
+* Time allocation.
+* Goals.
+* Priorities.
+* Progress.
+* Productivity patterns.
+
+I should be able to say:
+
+“Today I woke up late, completed one client reel, spent two hours editing, and did not finish my other task.”
+
+ARO should organize this information into my daily record and, where appropriate, ask whether I want to create or update specific tasks.
+
+Intelligent personal analysis
+
+ARO should analyze real recorded information to identify:
+
+* How consistently I follow my routine.
+* Where my time goes.
+* Which tasks I postpone.
+* What patterns affect productivity.
+* Where I am improving.
+* Which habits may be limiting progress.
+* What practical changes could help.
+
+Generate daily, weekly, and monthly summaries.
+
+Do not invent reasons for my behavior. Separate confirmed observations from possible explanations and ask for clarification when needed.
+
+The objective is to help me understand myself and improve through evidence-based recommendations.
+
+⸻
+
+PART 6 — BRANDIZ AGENCY OPERATING SYSTEM
+
+ARO must be a complete operational intelligence system for Brandiz, my social media management agency.
+
+Personal productivity and agency management should work together where useful, but their records must remain organized and distinguishable.
+
+Client onboarding
+
+I will onboard clients myself.
+
+Create a flexible onboarding system where I can enter actual client information, including:
+
+* Client and business name.
+* Industry.
+* Products and services.
+* Target audience.
+* Brand identity.
+* Social media accounts.
+* Business objectives.
+* Service package.
+* Monthly deliverables.
+* Fees and payment terms.
+* Project dates.
+* Client preferences.
+* Important instructions.
+
+Do not automatically create clients or invent information.
+
+Every client must have a separate workspace and isolated memory.
+
+Agency operations
+
+Support the real workflows of a social media management agency:
+
+* Client management.
+* Brand research.
+* Social media strategy.
+* Content pillars.
+* Monthly content calendars.
+* Reel ideas.
+* Scripts and storyboards.
+* Shooting schedules.
+* Editing workflows.
+* Content reviews.
+* Client approvals.
+* Publishing schedules.
+* Instagram management.
+* Task and deadline tracking.
+* Client communication records.
+* Monthly performance reports.
+* Business development.
+* Lead generation assistance.
+* Agency workload management.
+
+These modules must be connected to real data and functional actions, not merely attractive visual cards.
+
+Content intelligence
+
+For each client, ARO should understand the business, audience, products, brand tone, and goals.
+
+It should generate relevant content ideas and learn from verified results.
+
+Do not use the same generic content strategy for every client.
+
+⸻
+
+PART 7 — AUTONOMOUS AI AGENT TEAM
+
+ARO should operate as the central intelligence coordinating specialized AI agents.
+
+Potential roles include:
+
+1. Central ARO Intelligence: Understands requests, coordinates agents, manages context, and combines results.
+2. Personal Assistant Agent: Helps with routine, goals, reminders, and daily organization.
+3. Productivity Analyst: Reviews activities and identifies patterns.
+4. Agency Operations Agent: Tracks Brandiz workflows, deadlines, and deliverables.
+5. Social Media Strategist: Develops client-specific strategies.
+6. Content Planner: Organizes content calendars and production plans.
+7. Creative Agent: Helps with concepts, scripts, and creative direction.
+8. Research Agent: Researches brands, competitors, and relevant information.
+9. Performance Analyst: Interprets actual available analytics.
+10. Client Management Agent: Organizes client records, approvals, and communication workflows.
+11. Automation Agent: Identifies and implements repetitive workflow automation.
+12. Quality Assurance Agent: Reviews outputs and detects errors.
+13. Development Agent: Helps improve and maintain the ARO application.
+
+Agent coordination
+
+ARO should be able to:
+
+* Understand a goal.
+* Select suitable agents and tools.
+* Divide complex tasks.
+* Assign subtasks.
+* Review results.
+* Identify failures.
+* Retry when appropriate.
+* Combine outputs.
+* Track completion.
+* Report genuine results.
+
+Use actual agent execution or model calls where available.
+
+Do not create fake agent activity logs or pretend agents collaborated if the system only generated one response.
+
+Start with functional capabilities and expand the agent architecture as free integrations become available.
+
+⸻
+
+PART 8 — SELF-LEARNING AND SELF-EVOLUTION
+
+ARO should continuously improve its usefulness through verified feedback and outcomes.
+
+It should:
+
+* Evaluate completed tasks.
+* Identify errors and weak results.
+* Learn from corrections.
+* Store useful lessons.
+* Improve prompts and workflows.
+* Detect bugs.
+* Investigate failures.
+* Fix issues when permitted.
+* Run tests.
+* Improve efficiency.
+* Discover useful free tools and open-source technologies.
+* Maintain a history of improvements.
+
+Self-improvement must be real and measurable.
+
+Do not claim to have upgraded, learned, or modified anything unless the change has actually been made and verified.
+
+Preserve security controls, user approval requirements, audit logs, and rollback mechanisms.
+
+Never modify these safeguards to bypass restrictions.
+
+⸻
+
+PART 9 — AUTONOMOUS EXECUTION AND DECISION-MAKING
+
+ARO should not require my approval for every minor action.
+
+When a task is clear, low-risk, and reversible, it should be able to proceed independently.
+
+Examples:
+
+* Organizing notes.
+* Summarizing information.
+* Creating draft content.
+* Preparing task lists.
+* Analyzing recorded data.
+* Suggesting schedule improvements.
+* Drafting client reports.
+* Fixing safe code issues within the approved project scope.
+
+However, require explicit approval before:
+
+* Spending money.
+* Publishing content publicly.
+* Sending messages to clients.
+* Deleting important information.
+* Changing account permissions.
+* Exporting sensitive data.
+* Making irreversible changes.
+* Taking consequential external actions.
+
+Always distinguish recommendations, drafts, and completed actions.
+
+⸻
+
+PART 10 — FREE-FIRST EXECUTION: NO PAID UPGRADE
+
+This requirement is absolute.
+
+I do not have the budget to upgrade plans or purchase premium features. Do not ask me to upgrade.
+
+Use the maximum possible capabilities available for free.
+
+Prioritize:
+
+1. Existing project functionality.
+2. Tools already available.
+3. Free-tier APIs.
+4. Open-source models.
+5. Free libraries.
+6. Native browser capabilities.
+7. Free automation tools.
+8. Free alternatives to paid services.
+
+If a feature requires a paid service:
+
+* Do not purchase it.
+* Do not upgrade the plan.
+* Search for a free alternative.
+* Implement everything possible without payment.
+* Create modular integration points where appropriate.
+* Continue developing the remaining features.
+
+If a free service has usage limits, design the application to use it efficiently.
+
+Do not falsely claim that a free tier offers unlimited usage.
+
+Do not bypass provider security, access restrictions, or terms of service.
+
+The instruction is simple: build as much as possible with what is genuinely available for free.
+
+⸻
+
+PART 11 — REALISTIC, PROFESSIONAL, MOBILE-FIRST INTERFACE
+
+The application must be easy to understand and practical to use on my iPhone.
+
+Prioritize:
+
+* Clean, professional design.
+* Clear navigation.
+* Responsive layouts.
+* Fast interactions.
+* Accessible AI chat.
+* Easy client onboarding.
+* Clear task status.
+* Real dashboards.
+* Useful empty states.
+* Reliable mobile performance.
+* Simple settings and memory controls.
+
+Avoid unnecessary complexity and decorative features that do not improve functionality.
+
+The interface should explain itself to a non-technical user.
+
+⸻
+
+PART 12 — REAL DATA, REAL FUNCTIONALITY, REAL TESTING
+
+I do not want a fake demo system.
+
+For every feature:
+
+* Connect the interface to real application state.
+* Use genuine data.
+* Implement functional actions.
+* Persist information where supported.
+* Handle errors and loading states.
+* Provide clear empty states.
+* Validate inputs.
+* Test the implementation.
+* Verify integrations.
+* Confirm mobile usability.
+
+Never fabricate clients, activity, analytics, AI responses, task completion, or integration status.
+
+If a feature is incomplete, label it honestly.
+
+If an external service is not connected, do not present it as connected.
+
+A simple working system is better than an impressive-looking nonfunctional demo.
+
+⸻
+
+PART 13 — DEVELOPMENT EXECUTION PLAN
+
+Begin by inspecting the existing ARO project.
+
+Then proceed carefully:
+
+Stage 1
+
+Review the codebase, identify useful existing functionality, and remove misleading demo data.
+
+Stage 2
+
+Ensure the existing application remains stable and functional.
+
+Stage 3
+
+Build or improve the real conversational AI using an available free model or service.
+
+Stage 4
+
+Implement bilingual Hindi-English interaction and persistent memory.
+
+Stage 5
+
+Build daily routine logging, task tracking, and personal analysis.
+
+Stage 6
+
+Improve actual client onboarding and Brandiz agency workflows.
+
+Stage 7
+
+Implement functional AI agents and coordination.
+
+Stage 8
+
+Add voice interaction using available free technology.
+
+Stage 9
+
+Connect the modules into one coherent operating system.
+
+Stage 10
+
+Run tests, fix errors, verify functionality, and document genuine limitations.
+
+Do not attempt to build everything at once if doing so compromises reliability.
+
+Preserve all useful existing functionality throughout development.
+
+⸻
+
+FINAL COMMAND — BUILD THE REAL ARO
+
+ARO, understand this mission completely.
+
+I want an AI I can genuinely talk to in Hindi or English, share my daily life and business activities with, receive intelligent answers from, and rely on to organize and analyze my work.
+
+I want a real Second Brain that remembers relevant information, tracks progress, recognizes patterns, and becomes more useful over time.
+
+I want a real agency operating system that helps Brandiz manage clients, content, workflows, and growth.
+
+I want specialized AI agents that perform genuine tasks and coordinate through the central ARO intelligence.
+
+I want the system to improve itself safely, learn from verified outcomes, and reduce unnecessary manual effort.
+
+I do not want imaginary clients, fake analytics, simulated AI, or a beautiful interface hiding incomplete functionality.
+
+Preserve what is already good. Improve what is average. Fix what is broken. Build what is missing.
+
+Use free resources to their maximum potential. Do not ask for paid upgrades. Do not stop because one feature is unavailable.
+
+My goal is not to see a demo of an AI operating system. My goal is to build a real AI operating system that I can use every day for my life and my agency.
+
+BEGIN WITH THE EXISTING PROJECT REVIEW. THEN BUILD AND VERIFY THE REAL SYSTEM, STEP BY STEP.
